@@ -351,12 +351,17 @@ background-clip: text;
 color: transparent;
 
 }
-
+@media screen and  (max-width: 900px){
+  
+    
+}
 @media screen and  (min-width: 280px) {
   #Q8{
     width: 190px;
 
     }
+    
+      
     .poll-area label{
 
       margin-bottom: 10px;

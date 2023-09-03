@@ -292,21 +292,13 @@ select{
 
 
 @media all and (max-width: 900px){
+  
 	.contact-box{
 		grid-template-columns: 1fr;
     height: auto;
-margin-bottom: 100px;
+
 	}
-  .row{
-    box-shadow: 0 0 2rem blue;
-    border-bottom-left-radius: 50px;
-    border-top-left-radius: 50px;
-    border-top-right-radius: 50px;
-    border-bottom-right-radius: 50px;
 
-  }
-
-  
 	.left{
 		height: 200px;
 	}
@@ -319,10 +311,9 @@ margin-bottom: 100px;
 	display: flex;
 	flex-direction: column;
 	gap: 15px;
+
   }
-  .list{
-    margin-bottom: 200px;
-  }
+
 
   
 
