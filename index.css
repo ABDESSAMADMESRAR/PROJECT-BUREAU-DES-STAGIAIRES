@@ -136,7 +136,7 @@ margin-left:10px;
   background-color: #FFF;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 900px) {
   .mobile-menu, .hamburger {
     display: none;
   }
